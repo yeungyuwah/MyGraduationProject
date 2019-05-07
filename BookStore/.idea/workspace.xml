@@ -228,7 +228,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -928,7 +928,7 @@
               <type id="jpa-descriptors" />
             </show-content>
           </artifact-editor>
-          <last-edited>BookStore:war exploded</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -941,7 +941,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (BookStore)|Web</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
